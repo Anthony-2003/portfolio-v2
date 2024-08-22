@@ -31,7 +31,7 @@ const Menu = [
     title: "Wild Oasis React",
     description: "Una aplicación para explorar destinos de viaje con React.",
     category: ["React"],
-    url: "https://travel.gregsithole.com",
+    url: "https://wild-oasis-reactt.netlify.app/login",
     repositoryUrl: "https://wild-oasis-reactt.netlify.app/login"
   },
   {

@@ -9,7 +9,6 @@ const Home = () => {
   return (
     <section className="home container" id="home">
       <div className="intro">
-        <img src={Me} alt="owner profile" className="home__img" width="120" />
         <h1 className="home__name">Anthony Volquez Peña</h1>
         <span className="home__education">Desarrollador de Software</span>
 

@@ -42,7 +42,7 @@ const About = () => {
               <li>SQL</li>
               <li>Scrum</li>
               <li>Git</li>
-              <li>MongoDB</li>
+              <li>Next.js</li>
             </ul>
             <button className="btn" onClick={downloadResume}>
               Descargar CV
